@@ -1,4 +1,3 @@
-# Analysis_of_an_Equity_Investment_Portfolio_-2016-2026-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -43,9 +42,9 @@
 </head>
 <body>
 <main>
-    <h1>Análisis y simulación de un portafolio de inversión en acciones</h1>
+<h1>Análisis y simulación de un portafolio de inversión en acciones</h1>
 
-    <h2>Contexto</h2>
+<h2>Contexto</h2>
     <p>
         Para iniciar el análisis se definieron los tickers de las acciones seleccionadas y el benchmark de referencia.
         El portafolio está compuesto por cuatro empresas de gran capitalización —Apple (AAPL), Microsoft (MSFT),
@@ -70,13 +69,13 @@
         su desempeño frente al benchmark seleccionado.
     </p>
 
-    <h2>Objetivo</h2>
+<h2>Objetivo</h2>
     <p>
         Responder: <strong>“¿Cómo habría evolucionado el portafolio de un cliente en los últimos 10 años
         y qué ajustes recomendaría hoy?”</strong>
     </p>
 
-    <h2>Análisis</h2>
+<h2>Análisis</h2>
     <p>
         Durante el periodo analizado, el portafolio compuesto por Apple (AAPL), Microsoft (MSFT), Amazon (AMZN)
         y JPMorgan Chase (JPM) muestra patrones de comportamiento que se asemejan considerablemente al benchmark
@@ -109,7 +108,7 @@
         rendimientos superiores mediante una asignación estratégica o exposición a clases de activos alternativas.
     </p>
 
-    <h2>Hallazgos</h2>
+<h2>Hallazgos</h2>
     <p>
         El análisis del comportamiento histórico de las acciones seleccionadas revela una tendencia claramente
         alcista en sus rendimientos acumulados durante el período evaluado. Entre los activos analizados, Apple
@@ -149,7 +148,7 @@
         promedio.
     </p>
 
-    <h2>Conclusiones</h2>
+<h2>Conclusiones</h2>
     <p>
         El portafolio analizado ha mostrado un desempeño sólido y una tendencia alcista durante el período evaluado,
         superando ampliamente el rendimiento acumulado del benchmark VOO. Sin embargo, este desempeño está
