@@ -1,4 +1,47 @@
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Análisis y simulación de un portafolio de inversión en acciones</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            margin: 0;
+            padding: 2rem;
+            line-height: 1.6;
+            background-color: #f5f5f5;
+            color: #222;
+        }
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+        }
+        h1, h2 {
+            color: #1f2933;
+        }
+        h1 {
+            margin-top: 0;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 0.5rem;
+        }
+        h2 {
+            margin-top: 2rem;
+        }
+        p {
+            margin-bottom: 1rem;
+        }
+        strong {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+<main>
 <h1>Análisis y simulación de un portafolio de inversión en acciones</h1>
 
 <h2>Contexto</h2>
